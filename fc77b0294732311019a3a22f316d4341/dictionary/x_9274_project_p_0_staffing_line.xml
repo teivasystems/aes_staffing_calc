@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8b0b382d4732311019a3a22f316d43a1" label="Staffing Line" max_length="40" name="x_9274_project_p_0_staffing_line" type="collection">
+        <element label="Additional Overall Expenses" max_length="40" name="additional_overall_expenses" type="integer"/>
+        <element label="Client Rate (per hour)" max_length="40" name="client_rate_per_hour" type="integer"/>
+        <element label="Expenses (per hour)" max_length="40" name="expenses_per_hour" type="integer"/>
+        <element label="Level" max_length="40" name="level" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Opportunity" max_length="32" name="opportunity" reference="x_9274_project_p_0_opportunity_calculation" type="reference"/>
+        <element label="Order" max_length="40" name="order" type="string"/>
+        <element label="Ratecard" max_length="40" name="ratecard" type="string"/>
+        <element label="Staffing Plan" max_length="32" name="staffing_plan" reference="x_9274_project_p_0_staffing_plan" type="reference"/>
+        <element label="Total client fees" max_length="40" name="total_client_fees" type="string"/>
+        <element label="Total days" max_length="40" name="total_days" type="integer"/>
+        <element label="Total expenses" max_length="40" name="total_expenses" type="integer"/>
+        <element label="Total hours" max_length="40" name="total_hours" type="integer"/>
+        <index name="index">
+            <element name="opportunity"/>
+        </index>
+        <index name="index2">
+            <element name="staffing_plan"/>
+        </index>
+    </element>
+</database>

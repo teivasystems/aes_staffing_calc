@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="total_expenses" label="Total expenses" language="en" table="x_9274_project_p_0_staffing_line">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>total_expenses</element>
+            <help/>
+            <hint/>
+            <label>Total expenses</label>
+            <language>en</language>
+            <name>x_9274_project_p_0_staffing_line</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-28 21:25:25</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Total expenses</sys_name>
+            <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+            <sys_update_name>sys_documentation_x_9274_project_p_0_staffing_line_total_expenses_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-28 21:25:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7f5a78e94732311019a3a22f316d432f" label="Staffing Plan" max_length="40" name="x_9274_project_p_0_staffing_plan" type="collection">
+        <element label="Blended Rate" max_length="40" name="overall_blended_rate" type="string"/>
+        <element label="Days" max_length="40" name="overall_days" type="string"/>
+        <element label="Revenue" max_length="40" name="overall_value" type="string"/>
+    </element>
+</database>

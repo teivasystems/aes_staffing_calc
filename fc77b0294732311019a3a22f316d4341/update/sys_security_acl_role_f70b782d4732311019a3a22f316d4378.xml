@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 21:18:06</sys_created_on>
+        <sys_id>f70b782d4732311019a3a22f316d4378</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_9274_project_p_0_staffing_line.x_9274_project_p_0.admin</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_security_acl display_value="x_9274_project_p_0_staffing_line">7f0b782d4732311019a3a22f316d4375</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f70b782d4732311019a3a22f316d4378</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-28 21:18:06</sys_updated_on>
+        <sys_user_role display_value="x_9274_project_p_0.admin" name="x_9274_project_p_0.admin">f877b0294732311019a3a22f316d434a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

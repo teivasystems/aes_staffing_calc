@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c9ce30614772311019a3a22f316d430e" sys_domain="global" table="x_9274_project_p_0_opportunity_calculation" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-28 21:34:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9ce30614772311019a3a22f316d4375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_9274_project_p_0_opportunity_calculation" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">c9ce30614772311019a3a22f316d430e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">49a838694732311019a3a22f316d43c1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-28 21:34:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-28 21:34:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c5ce30614772311019a3a22f316d4376</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_9274_project_p_0_opportunity_calculation" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">c9ce30614772311019a3a22f316d430e</sys_ui_form>
+            <sys_ui_section caption="Staffing Plan" display_value="Staffing Plan" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">4dce30614772311019a3a22f316d430d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-28 21:34:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_9274_project_p_0_opportunity_calculation</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-28 21:34:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9ce30614772311019a3a22f316d430e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_9274_project_p_0_opportunity_calculation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c9ce30614772311019a3a22f316d430e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-28 21:34:18</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

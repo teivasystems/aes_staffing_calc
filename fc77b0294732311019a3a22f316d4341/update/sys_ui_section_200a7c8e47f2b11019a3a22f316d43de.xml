@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Calculation" section_id="200a7c8e47f2b11019a3a22f316d43de" sys_domain="global" table="x_9274_project_p_0_opportunity_calculation" version="3" view="workspace-project-pricing-and-offer-tool-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_value</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>f00abc8e47f2b11019a3a22f316d43ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Calculation" display_value="Calculation" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">200a7c8e47f2b11019a3a22f316d43de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_cost</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>f40abc8e47f2b11019a3a22f316d43ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Calculation" display_value="Calculation" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">200a7c8e47f2b11019a3a22f316d43de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>total_marge</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>f80abc8e47f2b11019a3a22f316d43ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Calculation" display_value="Calculation" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">200a7c8e47f2b11019a3a22f316d43de</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Calculation</caption>
+            <header>false</header>
+            <name>x_9274_project_p_0_opportunity_calculation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-30 10:30:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>200a7c8e47f2b11019a3a22f316d43de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_9274_project_p_0_opportunity_calculation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+            <sys_update_name>sys_ui_section_200a7c8e47f2b11019a3a22f316d43de</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-30 10:30:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Project Pricing and Offer Tool 0" name="workspace-project-pricing-and-offer-tool-0">a489d3e9a3fa311016e2ced15d16509a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

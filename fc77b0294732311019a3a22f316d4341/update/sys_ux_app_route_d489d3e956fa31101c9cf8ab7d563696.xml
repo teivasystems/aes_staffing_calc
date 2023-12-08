@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Project Pricing and Offer Tool App Config">2889d3e90dfa3110f939265a6cdfeea4</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>All Dashboards</name>
+        <optional_parameters>filter</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>all-dashboards</route_type>
+        <screen_type display_value="All Dashboards">d089d3e9f0fa31102bddf25579f8f097</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 08:50:24</sys_created_on>
+        <sys_id>d489d3e956fa31101c9cf8ab7d563696</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Dashboards</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_update_name>sys_ux_app_route_d489d3e956fa31101c9cf8ab7d563696</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 08:50:24</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d489d3e956fa31101c9cf8ab7d563696"/>
+</record_update>

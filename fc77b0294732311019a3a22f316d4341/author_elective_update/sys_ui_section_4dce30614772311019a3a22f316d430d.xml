@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Staffing Plan" section_id="4dce30614772311019a3a22f316d430d" sys_domain="global" table="x_9274_project_p_0_opportunity_calculation" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption>Staffing Plan</caption>
+            <header>false</header>
+            <name>x_9274_project_p_0_opportunity_calculation</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-28 21:34:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4dce30614772311019a3a22f316d430d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_9274_project_p_0_opportunity_calculation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+            <sys_update_name>sys_ui_section_4dce30614772311019a3a22f316d430d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-28 21:34:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</application>
+        <file_path/>
+        <instance_id>d267761c1b06b9d4699443f4bd4bcbac</instance_id>
+        <instance_name>dev190007</instance_name>
+        <name>sys_ui_section_4dce30614772311019a3a22f316d430d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Staffing Plan" section_id="4dce30614772311019a3a22f316d430d" sys_domain="global" table="x_9274_project_p_0_opportunity_calculation" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Staffing Plan</caption><header>false</header><name>x_9274_project_p_0_opportunity_calculation</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-28 21:34:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4dce30614772311019a3a22f316d430d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_9274_project_p_0_opportunity_calculation</sys_name><sys_overrides/><sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package><sys_policy/><sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope><sys_update_name>sys_ui_section_4dce30614772311019a3a22f316d430d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-28 21:34:18</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1586824910</payload_hash>
+        <record_name>Opportunity Calculation</record_name>
+        <reverted_from/>
+        <source>3877b0294732311019a3a22f316d4346</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 14:59:00</sys_created_on>
+        <sys_id>dceda8794772711019a3a22f316d4309</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c1b972aeb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 14:59:00</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>9ceda879e4727110b0711ffe504fd109</update_guid>
+        <update_guid_history>9ceda879e4727110b0711ffe504fd109:-1586824910</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 14:59:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>25d1cc19f1aa460a946c0feb355c3b04</sys_id>
+        <sys_metadata>4dce30614772311019a3a22f316d430d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Staffing Plan</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_parent display_value="Opportunity Calculation">2ca838694732311019a3a22f316d4316</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_scope_delete display_value="">00b51bd341ba41c0ac95f5aaedd4ebc4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_4dce30614772311019a3a22f316d430d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_4dce30614772311019a3a22f316d430d">dceda8794772711019a3a22f316d4309</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

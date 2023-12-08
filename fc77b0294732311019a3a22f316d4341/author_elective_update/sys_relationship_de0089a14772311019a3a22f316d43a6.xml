@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_9274_project_p_0_staffing_plan</basic_apply_to>
+        <basic_query_from>x_9274_project_p_0_staffing_line</basic_query_from>
+        <insert_callback/>
+        <name>Staffing</name>
+        <query_from/>
+        <query_with><![CDATA[current.addQuery('staffing_plan', parent.sys_id);]]></query_with>
+        <reference_field>staffing_plan</reference_field>
+        <related_list/>
+        <simple_reference>true</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 21:40:06</sys_created_on>
+        <sys_id>de0089a14772311019a3a22f316d43a6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Staffing</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_update_name>sys_relationship_de0089a14772311019a3a22f316d43a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-28 21:40:27</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=de0089a14772311019a3a22f316d43a6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</application>
+        <file_path/>
+        <instance_id>d267761c1b06b9d4699443f4bd4bcbac</instance_id>
+        <instance_name>dev190007</instance_name>
+        <name>sys_relationship_de0089a14772311019a3a22f316d43a6</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;x_9274_project_p_0_staffing_plan&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;x_9274_project_p_0_staffing_line&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Staffing&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[current.addQuery('staffing_plan', parent.sys_id);]]&gt;&lt;/query_with&gt;&lt;reference_field&gt;staffing_plan&lt;/reference_field&gt;&lt;related_list/&gt;&lt;simple_reference&gt;true&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-28 21:40:06&lt;/sys_created_on&gt;&lt;sys_id&gt;de0089a14772311019a3a22f316d43a6&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Staffing&lt;/sys_name&gt;&lt;sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0"&gt;fc77b0294732311019a3a22f316d4341&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Pricing and Offer Tool"&gt;fc77b0294732311019a3a22f316d4341&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_de0089a14772311019a3a22f316d43a6&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-28 21:40:27&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=de0089a14772311019a3a22f316d43a6"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-285119863</payload_hash>
+        <record_name>Staffing</record_name>
+        <reverted_from/>
+        <source>3877b0294732311019a3a22f316d4346</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-28 21:40:27</sys_created_on>
+        <sys_id>8b2089a14772311019a3a22f316d4362</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c17e056c20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-28 21:40:27</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>832089a1ec72311044a8c9eabb501a62</update_guid>
+        <update_guid_history>832089a1ec72311044a8c9eabb501a62:-285119863,4e10c9a1ea723110a84013ed245152c3:1562488890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 19:32:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>28c970c2581f4506864b89e00c04fd64</sys_id>
+        <sys_metadata>de0089a14772311019a3a22f316d43a6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Staffing</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_parent display_value="Project P 0 Staffing Plan">7f5a78e94732311019a3a22f316d432f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_scope_delete display_value="">00b51bd341ba41c0ac95f5aaedd4ebc4</sys_scope_delete>
+        <sys_update_name>sys_relationship_de0089a14772311019a3a22f316d43a6</sys_update_name>
+        <sys_update_version display_value="sys_relationship_de0089a14772311019a3a22f316d43a6">8b2089a14772311019a3a22f316d4362</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 19:32:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_dictionary">
+    <ais_dictionary action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <auto_refresh>24</auto_refresh>
+        <blocked_field/>
+        <case_sensitive>false</case_sensitive>
+        <data_source>x_9274_project_p_0_staffing_line,x_9274_project_p_0_staffing_plan,x_9274_project_p_0_opportunity_calculation</data_source>
+        <derived>true</derived>
+        <field/>
+        <label>project-pricing-and-offer-tool Search Profile Default Spell Check Dictionary</label>
+        <last_derived/>
+        <locale>en</locale>
+        <name>x_9274_project_p_0_project_pricing_and_offer_tool_search_profile_default_spell_check_dictionary</name>
+        <publish_id/>
+        <punctuation_sensitive>false</punctuation_sensitive>
+        <state>DRAFT</state>
+        <sys_class_name>ais_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 08:50:28</sys_created_on>
+        <sys_id>b18957e947fa311019a3a22f316d43a1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_9274_project_p_0_project_pricing_and_offer_tool_search_profile_default_spell_check_dictionary</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_update_name>ais_dictionary_b18957e947fa311019a3a22f316d43a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 08:50:29</sys_updated_on>
+        <type>SPELLCHECK</type>
+    </ais_dictionary>
+</record_update>

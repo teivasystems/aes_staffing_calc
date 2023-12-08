@@ -5,7 +5,7 @@
         <element label="Expenses (per hour)" max_length="40" name="expenses_per_hour" type="integer"/>
         <element label="Level" max_length="40" name="level" type="string"/>
         <element label="Name" max_length="40" name="name" type="string"/>
-        <element label="Opportunity" max_length="32" name="opportunity" reference="x_9274_project_p_0_opportunity_calculation" type="reference"/>
+        <element label="Opportunity" max_length="32" name="opportunity" reference="x_9274_project_p_0_opportunity_calculation" reference_floats="true" type="reference"/>
         <element label="Order" max_length="40" name="order" type="string"/>
         <element label="Ratecard" max_length="40" name="ratecard" type="string"/>
         <element label="Staffing Plan" max_length="32" name="staffing_plan" reference="x_9274_project_p_0_staffing_plan" type="reference"/>

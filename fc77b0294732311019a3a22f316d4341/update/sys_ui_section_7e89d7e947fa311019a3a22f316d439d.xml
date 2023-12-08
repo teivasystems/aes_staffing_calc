@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Staffing Lines" section_id="7e89d7e947fa311019a3a22f316d439d" sys_domain="global" table="x_9274_project_p_0_staffing_plan" version="3" view="workspace-project-pricing-and-offer-tool-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_9274_project_p_0_staffing_plan.x_9274_project_p_0_staffing_line.staffing_plan</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-29 08:50:32</sys_created_on>
+            <sys_id>3e89d7e947fa311019a3a22f316d43ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Staffing Lines" display_value="Staffing Lines" name="x_9274_project_p_0_staffing_plan" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">7e89d7e947fa311019a3a22f316d439d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-29 08:50:32</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Staffing Lines</caption>
+            <header>false</header>
+            <name>x_9274_project_p_0_staffing_plan</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-29 08:50:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e89d7e947fa311019a3a22f316d439d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_9274_project_p_0_staffing_plan</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+            <sys_update_name>sys_ui_section_7e89d7e947fa311019a3a22f316d439d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-29 08:50:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Project Pricing and Offer Tool 0" name="workspace-project-pricing-and-offer-tool-0">a489d3e9a3fa311016e2ced15d16509a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

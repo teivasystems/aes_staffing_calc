@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_ui_section caption="" section_id="49a838694732311019a3a22f316d43c1" sys_domain="global" table="x_9274_project_p_0_opportunity_calculation" version="3" view="">
+    <sys_ui_section caption="" section_id="6e8997e947fa311019a3a22f316d43af" sys_domain="global" table="x_9274_project_p_0_opportunity_calculation" version="3" view="workspace-project-pricing-and-offer-tool-0">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-29 14:59:01</sys_created_on>
-            <sys_id>98eda8794772711019a3a22f316d431d</sys_id>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>300abc8e47f2b11019a3a22f316d43af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">49a838694732311019a3a22f316d43c1</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">6e8997e947fa311019a3a22f316d43af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,27 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-29 14:59:01</sys_created_on>
-            <sys_id>90eda8794772711019a3a22f316d431e</sys_id>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>780abc8e47f2b11019a3a22f316d43af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">49a838694732311019a3a22f316d43c1</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">6e8997e947fa311019a3a22f316d43af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>major_account</element>
+            <element>start</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-29 14:59:01</sys_created_on>
-            <sys_id>94eda8794772711019a3a22f316d431e</sys_id>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>7c0abc8e47f2b11019a3a22f316d43af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">49a838694732311019a3a22f316d43c1</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">6e8997e947fa311019a3a22f316d43af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-29 14:59:01</sys_created_on>
-            <sys_id>98eda8794772711019a3a22f316d431e</sys_id>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>700abc8e47f2b11019a3a22f316d43b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">49a838694732311019a3a22f316d43c1</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">6e8997e947fa311019a3a22f316d43af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,27 +60,27 @@
             <element>state</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-29 14:59:01</sys_created_on>
-            <sys_id>9ceda8794772711019a3a22f316d431e</sys_id>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>740abc8e47f2b11019a3a22f316d43b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">49a838694732311019a3a22f316d43c1</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">6e8997e947fa311019a3a22f316d43af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>start</element>
+            <element>major_account</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-29 14:59:01</sys_created_on>
-            <sys_id>90eda8794772711019a3a22f316d431f</sys_id>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>780abc8e47f2b11019a3a22f316d43b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">49a838694732311019a3a22f316d43c1</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">6e8997e947fa311019a3a22f316d43af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>end_date</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-29 14:59:01</sys_created_on>
-            <sys_id>94eda8794772711019a3a22f316d431f</sys_id>
+            <sys_created_on>2023-11-30 10:30:30</sys_created_on>
+            <sys_id>7c0abc8e47f2b11019a3a22f316d43b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">49a838694732311019a3a22f316d43c1</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="a489d3e9a3fa311016e2ced15d16509a">6e8997e947fa311019a3a22f316d43af</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
+            <sys_updated_on>2023-11-30 10:30:30</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -105,22 +105,22 @@
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-28 21:07:33</sys_created_on>
+            <sys_created_on>2023-11-29 08:50:31</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>49a838694732311019a3a22f316d43c1</sys_id>
+            <sys_id>6e8997e947fa311019a3a22f316d43af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_9274_project_p_0_opportunity_calculation</sys_name>
             <sys_overrides/>
             <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
             <sys_policy/>
             <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
-            <sys_update_name>sys_ui_section_49a838694732311019a3a22f316d43c1</sys_update_name>
+            <sys_update_name>sys_ui_section_6e8997e947fa311019a3a22f316d43af</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-28 21:07:33</sys_updated_on>
+            <sys_updated_on>2023-11-29 08:50:31</sys_updated_on>
             <sys_user/>
             <title>true</title>
-            <view display_value="Default view" name="NULL">Default view</view>
+            <view display_value="Workspace Project Pricing and Offer Tool 0" name="workspace-project-pricing-and-offer-tool-0">a489d3e9a3fa311016e2ced15d16509a</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

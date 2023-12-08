@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Home">03e03cc247f2b11019a3a22f316d4337</macroponent>
+        <name>badge_1/value</name>
+        <preset/>
+        <required_translations>[
+    
+]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+  var opportunities = new GlideAggregate('x_9274_project_p_0_opportunity_calculation');
+  opportunities.addQuery('state', 'new');
+  opportunities.addAggregate('COUNT');
+  opportunities.query();
+
+  var count = 0;
+  
+  while(opportunities.next()){
+    count = opportunities.getAggregate('COUNT')
+  }
+  
+	return count;
+  
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-30 10:41:35</sys_created_on>
+        <sys_id>42daf8ce47f2b11019a3a22f316d4301</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>badge_1/value</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_update_name>sys_ux_client_script_42daf8ce47f2b11019a3a22f316d4301</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-30 10:42:10</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</application>
+        <file_path/>
+        <instance_id>d267761c1b06b9d4699443f4bd4bcbac</instance_id>
+        <instance_name>dev190007</instance_name>
+        <name>sys_ux_client_script_42daf8ce47f2b11019a3a22f316d4301</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;controller_preset/&gt;&lt;includes/&gt;&lt;macroponent display_value="Home"&gt;03e03cc247f2b11019a3a22f316d4337&lt;/macroponent&gt;&lt;name&gt;badge_1/value&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[
+    
+]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+  var opportunities = new GlideAggregate('x_9274_project_p_0_opportunity_calculation');
+  opportunities.addQuery('state', 'new');
+  opportunities.addAggregate('COUNT');
+  opportunities.query();
+
+  var count = 0;
+  
+  while(opportunities.next()){
+    count = opportunities.getAggregate('COUNT')
+  }
+  
+	return count;
+  
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-11-30 10:41:35&lt;/sys_created_on&gt;&lt;sys_id&gt;42daf8ce47f2b11019a3a22f316d4301&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;badge_1/value&lt;/sys_name&gt;&lt;sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0"&gt;fc77b0294732311019a3a22f316d4341&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Project Pricing and Offer Tool"&gt;fc77b0294732311019a3a22f316d4341&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_42daf8ce47f2b11019a3a22f316d4301&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-11-30 10:42:10&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1313451558</payload_hash>
+        <record_name>badge_1/value</record_name>
+        <reverted_from/>
+        <source>675493e147fa311019a3a22f316d4332</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-30 10:42:10</sys_created_on>
+        <sys_id>efacbc424736b11019a3a22f316d439b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c1fd260f50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-30 10:42:10</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>a7acbc429136b110db26d15c4b9ffd9b</update_guid>
+        <update_guid_history>a7acbc429136b110db26d15c4b9ffd9b:1313451558,878cf8425236b1100ef3510f75b6cf85:-1496310876</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-30 10:44:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>056225ab0f9c467f8085f227288ab7b9</sys_id>
+        <sys_metadata>42daf8ce47f2b11019a3a22f316d4301</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>badge_1/value</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_scope_delete display_value="">00b51bd341ba41c0ac95f5aaedd4ebc4</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_42daf8ce47f2b11019a3a22f316d4301</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_42daf8ce47f2b11019a3a22f316d4301">efacbc424736b11019a3a22f316d439b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-30 10:44:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

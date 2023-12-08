@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Project Pricing and Offer Tool generated</description>
+        <name>view</name>
+        <page display_value="Project Pricing and Offer Tool">a089d3e9d3fa3110a57bc90e35ee1aa4</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 08:50:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9889d3e9c5fa3110ecf15ec0c1b69993</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_update_name>sys_ux_page_property_9889d3e9c5fa3110ecf15ec0c1b69993</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 08:50:24</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_9274_project_p_0.a089d3e9d3fa3110a57bc90e35ee1aa4.root.view</unique_name>
+        <value>workspace-project-pricing-and-offer-tool-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=9889d3e9c5fa3110ecf15ec0c1b69993"/>
+</record_update>

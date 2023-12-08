@@ -17,16 +17,16 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-28 21:34:19</sys_created_on>
+            <sys_created_on>2023-11-29 14:59:01</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c5ce30614772311019a3a22f316d4376</sys_id>
+            <sys_id>dceda8794772711019a3a22f316d4312</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_9274_project_p_0_opportunity_calculation" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">c9ce30614772311019a3a22f316d430e</sys_ui_form>
-            <sys_ui_section caption="Staffing Plan" display_value="Staffing Plan" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">4dce30614772311019a3a22f316d430d</sys_ui_section>
+            <sys_ui_section caption="Financials" display_value="Financials" name="x_9274_project_p_0_opportunity_calculation" sys_domain="global" view="Default view">54ed68794772711019a3a22f316d4393</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-28 21:34:19</sys_updated_on>
+            <sys_updated_on>2023-11-29 14:59:01</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_9274_project_p_0_opportunity_calculation</name>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputSysId": "964e8cb547fe311019a3a22f316d4330",
+        "inputTable": "x_9274_project_p_0_opportunity_calculation",
+        "view": "workspace-project-pricing-and-offer-tool-0"
+    },
+    "table": "x_9274_project_p_0_opportunity_calculation",
+    "sysId": "964e8cb547fe311019a3a22f316d4330",
+    "query": null,
+    "extraParams": null,
+    "views": null,
+    "selectedTabIndex": null
+}</macroponent_config>
+        <screen display_value="Opportunity Calculation Record Page">1e8997e947fa311019a3a22f316d4319</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-30 09:42:54</sys_created_on>
+        <sys_id>ef1f2c4247f2b11019a3a22f316d43c0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_ef1f2c4247f2b11019a3a22f316d43c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-30 10:22:23</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

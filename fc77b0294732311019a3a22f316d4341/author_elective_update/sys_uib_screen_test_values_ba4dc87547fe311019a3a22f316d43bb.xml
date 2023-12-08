@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="DELETE">
+        <macroponent_config>{}</macroponent_config>
+        <screen display_value="Home default">d089d3e9d4fa3110028cb83efc91fe91</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 12:36:38</sys_created_on>
+        <sys_id>ba4dc87547fe311019a3a22f316d43bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_ba4dc87547fe311019a3a22f316d43bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 12:36:38</sys_updated_on>
+    </sys_uib_screen_test_values>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</application>
+        <file_path/>
+        <instance_id>d267761c1b06b9d4699443f4bd4bcbac</instance_id>
+        <instance_name>dev190007</instance_name>
+        <name>sys_uib_screen_test_values_ba4dc87547fe311019a3a22f316d43bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values"><sys_uib_screen_test_values action="INSERT_OR_UPDATE"><macroponent_config>{}</macroponent_config><screen display_value="Home default">d089d3e9d4fa3110028cb83efc91fe91</screen><sys_class_name>sys_uib_screen_test_values</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-29 12:36:38</sys_created_on><sys_id>ba4dc87547fe311019a3a22f316d43bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package><sys_policy/><sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope><sys_update_name>sys_uib_screen_test_values_ba4dc87547fe311019a3a22f316d43bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-29 12:36:38</sys_updated_on></sys_uib_screen_test_values></record_update>]]></payload>
+        <payload_hash>1718990450</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>675493e147fa311019a3a22f316d4332</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-29 12:36:38</sys_created_on>
+        <sys_id>7e4dc87547fe311019a3a22f316d43bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c1b14d1690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-29 12:36:38</sys_updated_on>
+        <type>UIB Screen Test Values</type>
+        <update_guid>b24dc8756ffe3110bf13b62db5ece0bd</update_guid>
+        <update_guid_history>b24dc8756ffe3110bf13b62db5ece0bd:1718990450</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-30 09:49:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_uib_screen_test_values">sys_uib_screen_test_values</sys_db_object>
+        <sys_id>31d512c0859740cc8792a40ed9fab210</sys_id>
+        <sys_metadata>ba4dc87547fe311019a3a22f316d43bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Project Pricing and Offer Tool" source="x_9274_project_p_0">fc77b0294732311019a3a22f316d4341</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Project Pricing and Offer Tool">fc77b0294732311019a3a22f316d4341</sys_scope>
+        <sys_scope_delete display_value="">00b51bd341ba41c0ac95f5aaedd4ebc4</sys_scope_delete>
+        <sys_update_name>sys_uib_screen_test_values_ba4dc87547fe311019a3a22f316d43bb</sys_update_name>
+        <sys_update_version display_value="sys_uib_screen_test_values_ba4dc87547fe311019a3a22f316d43bb">7e4dc87547fe311019a3a22f316d43bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-30 09:49:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
